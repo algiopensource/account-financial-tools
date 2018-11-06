@@ -26,14 +26,19 @@ addon | version | summary
 --- | --- | ---
 [account_asset_depr_line_cancel](account_asset_depr_line_cancel/) | 10.0.1.0.0 | Assets Management - Cancel button
 [account_asset_disposal](account_asset_disposal/) | 10.0.2.0.0 | Makes asset close account move automatically
+[account_asset_management](account_asset_management/) | 10.0.3.1.0 | Assets Management
+[account_asset_management_import](account_asset_management_import/) | 10.0.1.0.0 | Fixed Assets import
+[account_asset_management_method_number_end](account_asset_management_method_number_end/) | 10.0.1.0.0 | Financial asset management - method Number & End
+[account_asset_management_xls](account_asset_management_xls/) | 10.0.1.0.0 | Assets Management Excel reporting
 [account_balance_line](account_balance_line/) | 10.0.1.0.0 | Display balance totals in move line view
-[account_chart_update](account_chart_update/) | 10.0.1.0.1 | Wizard to update a company's account chart from a template
+[account_chart_update](account_chart_update/) | 10.0.2.1.0 | Wizard to update a company's account chart from a template
 [account_check_deposit](account_check_deposit/) | 10.0.1.0.0 | Manage deposit of checks to the bank
-[account_credit_control](account_credit_control/) | 10.0.1.3.4 | Account Credit Control
+[account_credit_control](account_credit_control/) | 10.0.1.4.4 | Account Credit Control
 [account_credit_control_dunning_fees](account_credit_control_dunning_fees/) | 10.0.1.0.0 | Credit control dunning fees
 [account_fiscal_month](account_fiscal_month/) | 10.0.1.0.0 | Provide a fiscal month date range type
 [account_fiscal_position_vat_check](account_fiscal_position_vat_check/) | 10.0.1.0.0 | Check VAT on invoice validation
 [account_fiscal_year](account_fiscal_year/) | 10.0.1.0.0 | Account Fiscal Year
+[account_group](account_group/) | 10.0.1.0.0 | Use v11 account groups feature
 [account_invoice_constraint_chronology](account_invoice_constraint_chronology/) | 10.0.1.0.0 | Account Invoice Constraint Chronology
 [account_invoice_currency](account_invoice_currency/) | 10.0.1.1.1 | Company currency in invoices
 [account_invoice_tax_required](account_invoice_tax_required/) | 10.0.1.0.1 | Tax required in invoice
@@ -65,8 +70,6 @@ Unported addons
 ---------------
 addon | version | summary
 --- | --- | ---
-[account_asset_management](account_asset_management/) | 8.0.2.6.0 (unported) | Assets Management
-[account_asset_management_xls](account_asset_management_xls/) | 8.0.0.1.0 (unported) | Assets Management Excel reporting
 [account_cancel_invoice_check_payment_order](account_cancel_invoice_check_payment_order/) | 1.0 (unported) | Cancel invoice, check on payment order
 [account_cancel_invoice_check_voucher](account_cancel_invoice_check_voucher/) | 1.0 (unported) | Cancel invoice, check on bank statement
 [account_constraints](account_constraints/) | 8.0.1.1.0 (unported) | Account Constraints
